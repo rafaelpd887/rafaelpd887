@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png)](https://github.com/rafaelpd887)
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(1).png)](https://github.com/rafaelpd887)
 
 Welcome to my GitHub profile. Here you will find some of my projects.
 
@@ -27,6 +27,12 @@ Welcome to my GitHub profile. Here you will find some of my projects.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpd887)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpd887)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelpd887)](https://git.io/streak-stats)
 
 <!--
 **rafaelpd887/rafaelpd887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
