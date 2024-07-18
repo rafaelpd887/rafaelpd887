@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(3).png)](https://github.com/rafaelpd887)
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png)](https://github.com/rafaelpd887)
 
 Welcome to my GitHub profile. Here you will find some of my projects.
 
@@ -38,7 +38,7 @@ Data Processing using Alteryx:
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a>
 </p>
-
+<!--
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=transparent" alt="GitHub Streak" /></a>
 </p>
