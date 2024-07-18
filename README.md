@@ -28,10 +28,6 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpd887)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue)](https://git.io/streak-stats)
 
 <!--
