@@ -4,13 +4,13 @@
 
 Welcome to my GitHub profile. Here you will find some of my projects.
 
-## About Me 👤
+## 👤 About Me 
 
 - Aspiring data scientist
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
-## Tech 💻
+## 💻 Tech 
 
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
@@ -22,7 +22,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo"  />
 </div>
 
-## Portfolios 📁
+## 📁 Portfolios 
 
 [Data Analysis using R](https://rafaelpd.netlify.app) 📈
 
@@ -51,7 +51,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 </p>
 -->
 
-## Let's Connect 🌐 
+## 🌐 Let's Connect 
 
 <div align="left">
   <href="https://linkedin.com/in/rafael-domingues-8a17011b2/" target="_blank">
