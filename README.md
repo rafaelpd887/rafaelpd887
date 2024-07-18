@@ -50,7 +50,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 </p>
 -->
 
-## Contact me
+## Let's Connect 🤝
 
 <div align="left">
   <a href="https://linkedin.com/in/rafael-domingues-8a17011b2/" target="_blank">
