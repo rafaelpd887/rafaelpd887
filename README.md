@@ -20,8 +20,6 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
 </div>
 
-
-
 ## Portfolios
 
 [Data Analysis using R](https://rafaelpd.netlify.app)
@@ -50,7 +48,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 </p>
 -->
 
-## Let's Connect 🤝
+## Let's Connect 🌐
 
 <div align="left">
   <a href="https://linkedin.com/in/rafael-domingues-8a17011b2/" target="_blank">
