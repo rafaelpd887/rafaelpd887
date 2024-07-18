@@ -29,7 +29,9 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!--
