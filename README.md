@@ -9,7 +9,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
-<h3 align="left">Languages and Tools:</h3>
+## <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
@@ -20,6 +20,12 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
   </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
+  </a>
 </p>
 
 <!--
