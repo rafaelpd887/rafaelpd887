@@ -32,7 +32,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpd887)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=shadow-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue)](https://git.io/streak-stats)
 
 <!--
 **rafaelpd887/rafaelpd887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
