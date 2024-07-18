@@ -9,6 +9,8 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
+## Portfolios
+
 ## Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
@@ -29,9 +31,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue" alt="GitHub Streak" />
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 <!--
