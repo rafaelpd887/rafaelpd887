@@ -19,6 +19,11 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   <img width="12" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25" alt="powerbi logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25" alt="excel logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo"  />
+
+
 
 </div>
 
