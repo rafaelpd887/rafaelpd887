@@ -15,7 +15,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
