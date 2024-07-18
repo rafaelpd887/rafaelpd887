@@ -9,6 +9,28 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/sql/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.alteryx.com/" target="_blank"> 
+    <img src="https://www.alteryx.com/sites/all/themes/alteryx/images/logo-alteryx.svg" alt="alteryx" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
+  </a> 
+</p>
+
 <!--
 **rafaelpd887/rafaelpd887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
