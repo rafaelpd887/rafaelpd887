@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png)](https://github.com/rafaelpd887)
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(3).png)](https://github.com/rafaelpd887)
 
 Welcome to my GitHub profile. Here you will find some of my projects.
 
@@ -19,7 +19,7 @@ Data Visualization using PowerBI:
 
 Data Processing using Alteryx:
 [https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140)
-<!--
+
 ## Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
