@@ -1,22 +1,16 @@
 # Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/rafaelpd887">
-    <img src="https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png" alt="MasterHead" width="1000"/>
-  </a>
-</p>
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png)](https://github.com/rafaelpd887)
 
-<p align="center">Welcome to my GitHub profile. Here you will find some of my projects.</p>
+Welcome to my GitHub profile. Here you will find some of my projects.
 
 ## About Me
-<p align="center">
-  - Aspiring data scientist
-  - Passionate about data, statistics, and artificial intelligence
-  - Enthusiastic about learning and sharing knowledge
-</p>
+- Aspiring data scientist
+- Passionate about data, statistics, and artificial intelligence
+- Enthusiastic about learning and sharing knowledge
 
 ## Languages
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -25,8 +19,8 @@
   </a> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank"> 
+  </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
