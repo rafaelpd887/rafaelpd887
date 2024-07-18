@@ -28,6 +28,8 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpd887)](https://github.com/rafaelpd887/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue)](https://git.io/streak-stats)
 
 <!--
