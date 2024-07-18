@@ -19,7 +19,7 @@ Data Visualization using PowerBI:
 
 Data Processing using Alteryx:
 [https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140)
-
+<!--
 ## Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
