@@ -19,7 +19,7 @@ Data Visualization using PowerBI:
 
 Data Processing using Alteryx:
 [https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140)
-
+<!--
 ## Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
@@ -38,7 +38,8 @@ Data Processing using Alteryx:
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a>
 </p>
-<!--
+-->
+## Stats
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=transparent" alt="GitHub Streak" /></a>
 </p>
