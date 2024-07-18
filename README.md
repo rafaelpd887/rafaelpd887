@@ -9,7 +9,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
-## <h3 align="left">Languages and Tools:</h3>
+## Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
