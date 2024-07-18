@@ -9,7 +9,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 - Aspiring data scientist
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
-
+<!--
 ## Languages
 
 <div align="left">
@@ -19,7 +19,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   <img width="12" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
 </div>
-
+-->
 ## Portfolios
 
 [Data Analysis using R](https://rafaelpd.netlify.app)
@@ -27,8 +27,8 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 [Data Visualization using PowerBI](https://sites.google.com/view/rafaelpd)
 
 [Data Processing using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140)
-<!--
-## Languages
+
+## Tech Skills
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
@@ -46,7 +46,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a>
 </p>
--->
+
 
 ## Let's Connect 🌐
 
