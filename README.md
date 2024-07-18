@@ -18,13 +18,13 @@ Welcome to my GitHub profile. Here you will find some of my projects.
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://www.alteryx.com/" target="_blank"> 
-    <img src="https://www.alteryx.com/sites/all/themes/alteryx/images/logo-alteryx.svg" alt="alteryx" width="40" height="40"/> 
+    <img src="https://www.alteryx.com/~/media/Alteryx/Content/Images/Logos/Alteryx-Logo-Color.png" alt="alteryx" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
