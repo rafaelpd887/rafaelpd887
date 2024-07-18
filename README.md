@@ -54,17 +54,14 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 ## Let's Connect 🌐
 
 <div align="left">
-  <a href="https://linkedin.com/in/rafael-domingues-8a17011b2/" target="_blank">
+  <href="https://linkedin.com/in/rafael-domingues-8a17011b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://wa.me/5531998636973" target="_blank">
+  <href="https://wa.me/5531998636973" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" height="25" alt="WhatsApp logo" />
-  </a>
-  <a href="mailto:rafaelpdomingues887@gmail.com" target="_blank">
+  <href="mailto:rafaelpdomingues887@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
-  </a>
 </div>
-
+<!--
 ## Stats
 <p align="left">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=transparent" alt="GitHub Streak" /></a>
