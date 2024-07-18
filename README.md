@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banner.png)](https://github.com/rafaelpd887)
+
+Welcome to my GitHub profile. Here you will find some of my projects.
+
+## About Me
+- Aspiring data scientist
+- Passionate about data, statistics, and artificial intelligence
+- Enthusiastic about learning and sharing knowledge
 
 <!--
 **rafaelpd887/rafaelpd887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
