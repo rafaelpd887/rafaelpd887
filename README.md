@@ -40,7 +40,7 @@ Data Processing using Alteryx:
 </p>
 -->
 ## Stats
-<p align="center">
+<p align="left">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
