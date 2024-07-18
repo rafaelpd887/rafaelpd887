@@ -12,7 +12,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.r-project.org/" target="_blank"> 
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
