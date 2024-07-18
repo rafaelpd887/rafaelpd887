@@ -11,14 +11,11 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 
 ## Portfolios
 
-Data Analysis using R:
-[https://rafaelpd.netlify.app](https://rafaelpd.netlify.app)
+[Data Analysis using R](https://rafaelpd.netlify.app)
 
-Data Visualization using PowerBI:
-[https://sites.google.com/view/rafaelpd](https://sites.google.com/view/rafaelpd)
+[Data Visualization using PowerBI](https://sites.google.com/view/rafaelpd)
 
-Data Processing using Alteryx:
-[https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140)
+[Data Processing using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140)
 <!--
 ## Languages
 <p align="center">
