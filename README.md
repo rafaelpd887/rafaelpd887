@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(5).png)](https://github.com/rafaelpd887)
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(4).png)](https://github.com/rafaelpd887)
 
 Welcome to my GitHub profile. Here you will find some of my projects.
 
