@@ -1,16 +1,22 @@
 # Hi there 👋
 
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png)](https://github.com/rafaelpd887)
+<p align="center">
+  <a href="https://github.com/rafaelpd887">
+    <img src="https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png" alt="MasterHead" width="1000"/>
+  </a>
+</p>
 
-Welcome to my GitHub profile. Here you will find some of my projects.
+<p align="center">Welcome to my GitHub profile. Here you will find some of my projects.</p>
 
 ## About Me
-- Aspiring data scientist
-- Passionate about data, statistics, and artificial intelligence
-- Enthusiastic about learning and sharing knowledge
+<p align="center">
+  - Aspiring data scientist
+  - Passionate about data, statistics, and artificial intelligence
+  - Enthusiastic about learning and sharing knowledge
+</p>
 
 ## Languages
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -19,16 +25,14 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   </a> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
-  </a> 
-<a href="https://www.w3schools.com/html/" target="_blank"> 
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpd887)](https://github.com/rafaelpd887/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelpd887&theme=shadow-blue)](https://git.io/streak-stats)
 
