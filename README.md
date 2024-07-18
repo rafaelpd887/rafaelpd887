@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(1).png)](https://github.com/rafaelpd887)
+[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(2).png)](https://github.com/rafaelpd887)
 
 Welcome to my GitHub profile. Here you will find some of my projects.
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpd887)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpd887)](https://github.com/anuraghazra/github-readme-stats)
 
