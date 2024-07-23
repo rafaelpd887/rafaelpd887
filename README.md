@@ -6,7 +6,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 
 ## 👤 About Me 
 
-- Aspiring data scientist and machine learning engeener
+- Aspiring data scientist and machine learning engineer
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
