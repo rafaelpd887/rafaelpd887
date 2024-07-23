@@ -6,7 +6,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 
 ## 👤 About Me 
 
-- Aspiring data scientist
+- Aspiring data scientist and machine learning engeener
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
@@ -24,11 +24,13 @@ Welcome to my GitHub profile. Here you will find some of my projects.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo"  />
 </div>
 
-## 📁 Portfolios 
+## 🛠️ Showcase of Skills
 
 [Data Analysis using R](https://rafaelpd.netlify.app) 📈
 
 [Data Visualization using PowerBI](https://sites.google.com/view/rafaelpd) 📊
+
+[SQL Exercises on StrataScratch](https://platform.stratascratch.com/user/rafaelpd887) 🗄️ ![Database Icon](https://img.icons8.com/material-outlined/24/database.png)
 
 [Data Processing using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140) 🔄
 <!--
