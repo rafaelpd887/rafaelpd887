@@ -30,7 +30,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 
 [Data Visualization using PowerBI](https://sites.google.com/view/rafaelpd) 📊
 
-[SQL Exercises on StrataScratch](https://platform.stratascratch.com/user/rafaelpd887) 🗄️ ![Database Icon](https://img.icons8.com/material-outlined/24/database.png)
+[SQL Exercises on StrataScratch](https://platform.stratascratch.com/user/rafaelpd887) 🗄️ 
 
 [Data Processing using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140) 🔄
 <!--
