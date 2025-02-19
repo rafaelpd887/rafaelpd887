@@ -26,13 +26,13 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 
 ## 🛠️ Showcase of Skills
 
-[Data Analysis using R](https://rafaelpd.netlify.app) 📈
+[Data Analysis and Machine Learning using R](https://rafaelpd.netlify.app) 📈
 
 [Data Visualization using PowerBI](https://sites.google.com/view/rafaelpd) 📊
 
 [SQL Exercises on StrataScratch](https://platform.stratascratch.com/user/rafaelpd887) 🗄️ 
 
-[Data Processing using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140) 🔄
+[ETL Exercises using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140) 🔄
 <!--
 ## Tech Skills
 <img width="12" />
