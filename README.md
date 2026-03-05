@@ -2,28 +2,32 @@
 
 [![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(8).png)](https://github.com/rafaelpd887)
 
-Welcome to my GitHub profile. Here you will find some of my projects.
+Welcome to my GitHub profile.
 
 ## 👤 About Me 
 
-- Aspiring data scientist and machine learning engineer
+- Data scientist and machine learning engineer
 - Passionate about data, statistics, and artificial intelligence
 - Enthusiastic about learning and sharing knowledge
 
 ## 💻 Tech 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25" alt="python logo"  />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25" alt="powerbi logo"  />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25" alt="excel logo"  />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" alt="html logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo"  />
+
+  <!--
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  -->
 </div>
 
+<!--
 ## 🛠️ Showcase of Skills
 
 [Data Analysis and Machine Learning using R](https://rafaelpd.netlify.app) 📈
@@ -33,7 +37,7 @@ Welcome to my GitHub profile. Here you will find some of my projects.
 [SQL Exercises on StrataScratch](https://platform.stratascratch.com/user/rafaelpd887) 🗄️ 
 
 [ETL Exercises using Alteryx](https://community.alteryx.com/t5/user/viewprofilepage/user-id/605140) 🔄
-<!--
+
 ## Tech Skills
 <img width="12" />
 <p align="center">
