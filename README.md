@@ -58,7 +58,7 @@ Welcome to my GitHub profile.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
   </a>
 </p>
--->
+
 
 ## 🌐 Let's Connect 
 
@@ -70,6 +70,7 @@ Welcome to my GitHub profile.
   <href="mailto:rafaelpdomingues887@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
 </div>
+-->
 <!--
 ## Stats
 <p align="left">
