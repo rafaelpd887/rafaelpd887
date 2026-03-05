@@ -1,9 +1,10 @@
+<!--
 # Hi there 👋
-
+-->
 [![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(8).png)](https://github.com/rafaelpd887)
-
+<!--
 Welcome to my GitHub profile.
-
+-->
 ## 👤 About Me 
 
 - Data Scientist with a background in Machine Learning Engineering
