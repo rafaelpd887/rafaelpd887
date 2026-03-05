@@ -1,7 +1,7 @@
 <!--
 # Hi there 👋
 -->
-[![MasterHead](https://github.com/rafaelpd887/rafaelpd887/blob/main/banners/banner%20(8).png)](https://github.com/rafaelpd887)
+[![MasterHead](https://raw.githubusercontent.com/rafaelpd887/rafaelpd887/main/banners/Untitled.png)](https://github.com/rafaelpd887)
 <!--
 Welcome to my GitHub profile.
 -->
