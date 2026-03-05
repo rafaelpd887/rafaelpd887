@@ -6,16 +6,16 @@ Welcome to my GitHub profile.
 
 ## 👤 About Me 
 
-- Data scientist and machine learning engineer
-- Passionate about data, statistics, and artificial intelligence
-- Enthusiastic about learning and sharing knowledge
+- Data Scientist with a background in Machine Learning Engineering
+- Experience building predictive models and data pipelines using Python and R
+- Interested in MLOps and scalable data systems
 
 ## 💻 Tech 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25" alt="python logo"  />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
-
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo"/>
   <!--
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
