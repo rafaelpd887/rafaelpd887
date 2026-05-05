@@ -1,6 +1,6 @@
 <!--
 # Hi there 👋
--->
+
 [![MasterHead](https://raw.githubusercontent.com/rafaelpd887/rafaelpd887/main/banners/grokbanner1.jpg)](https://github.com/rafaelpd887)
 <!--
 Welcome to my GitHub profile.
