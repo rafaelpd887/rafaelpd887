@@ -7,9 +7,9 @@ Welcome to my GitHub profile.
 -->
 ## 👤 About Me 
 
-- Data Scientist with a background in Machine Learning Engineering
+- Focused on data science and MLOps
 - Experience building predictive models and data pipelines using Python and R
-- Interested in MLOps and scalable data systems
+- Interested in scalable data systems and ML engineering
 
 ## 💻 Tech 
 
